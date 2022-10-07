@@ -1,6 +1,6 @@
 Module 5 Coding Assignment Solution
 Coursera course: HTML, CSS, and Javascript for Web Developers
-URL to assignment solution: 
+URL to assignment solution: https://chathtl.github.io/module5-solution/
 Last assignment and you are DONE!
 
 Time to complete: About 30 minutes.
